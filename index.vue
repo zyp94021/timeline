@@ -40,7 +40,7 @@ export default {
     return {
       data,
       options: {
-        width: 500,
+        width: 1000,
         height: 200,
       },
     };
